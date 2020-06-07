@@ -1,0 +1,43 @@
+	Ethereum 
+	
+	What is Ethereum ?
+	
+		Ethereum is blockchain based software which is used to create decentralized applications which runs on the blockchain network. Ethereum extends the use of blockchain from bitcoins to a wide range of applications. Ethereum is used to write small programs called as Smart Contracts. It is decentralized and all the programs are synced between the computers on the network. Ethereum can be used for mining the blocks for a blockchain using Ethereum Virtual Machine as well as creating new blockchain applications. Ethereum has its own cryptocurrency named Ether(ETH) which is similar to bitcoin. When a miner mines a block and it is verified by other miners on the network, the particular miner is rewarded with ether. Ether is also used to pay transactions services. There is another ethereum termed called gas. The gas price is set by the miner to pay and they mine a block only if the gas price meets a certain threshold.
+	
+	Features of Ethereum
+	
+	--Smart Contracts : 
+		Ethereum runs smart contracts which are small programs in the blockchain that run simultaneously on each computer on the network. A smart contract is used to ensure a legalized exchange of property, money or shares. Smart contracts do not require any central authority to run. When they meet some specific conditions, they are self executed. Without any third party interference, smart contracts run safely and with security on the computers. A developer can write any rule based smart contract based on the type of applications they are building. Smart contracts are publicly available on the ledger. Participants can see the smart contract activity without violating any security and privacy issues. Smart contracts are placed in the blockchain with some code written in it. Each computer will get the same information and will be in the same state as they are running the same contract in the blockchain.
+		
+	--Ethereum cryptocurrency:
+		Ethereum has its own cryptocurrency named Ether(ETH). It is considered as a fuel for the applications on ethereum networks. Like bitcoin ether is traded for various purposes. When a miner mines a block, ether is rewarded so as to pay him/her for the use of resources and services. Greater the computational power and resources, greater the transactional fee to be paid. Each year total 18 million ether are mined. 5 Ether tokens are given to the miners that verify the transactions every 12 seconds. Functions of ether are similar to digital currencies such as bitcoin. It is difficult to recognize that how many collections of ether exists till now. So developers are changing the rules of ether creation to a new algorithm called as "proof-of-stack". We can find the particular owner of the ether on the ethereum blockchain same as the bitcoin blockchain.
+	
+	--Ethereum Virtual Machine:
+		Ethereum Virtual Machine is used by miners to mine blocks and run smart contracts on the ethereum blockchain. EVM runs on each computer of the participant on the network. It is a 256-bit virtual machine. It is said to be "Turing Complete", means by a given resource, a program run on the EVM can solve any problem.
+	
+	--Gas in Ethereum:
+		Gas is a unit in ethereum that measures the amount of computational power to solve a problem. Most of the smart contracts in ethereum are written in solidity. So to execute each line of solidity code, requires a certain amount of gas. Gas can be also termed as a mechanism by which a miner is paid for executing smart contracts using their computational power. The payment is done in ETH. The following formula shows the payment in eth for certain gas amount-Payment(in ETH) = Gas amount(in gas) x Gas price(ETH/gas). The amount of gas depends on the amount of computational work carried out. Gas price denoted by the person who wants to run a smart contract.  
+	
+	--Ethereum Units:
+		Ethereum has its own units to measure ETH. The smallest unit in ethereum is wei. The largest is ETH. There are some intermediate units such as Finney, Szabo, Shannon, Babbage, Ada.
+	
+	--ETH tokens:
+		ETH tokens are generated at a constant rate every year. The number of ETH in existence are : Pre-mine + Block rewards +  Uncle rewards + Uncle referencing rewards. Pre-mine ETH are generated for crowdsale.  Around 72 million ETH were created in a crowdsale in July/August 2014. When a block is mined, 5 new ETH are generated. Ethereum commits that the block generated every year should be less than 18m ETH. If a block is mined every 14 seconds, then 2.25m blocks are mined per year. 2.25m x 5 ETH per block gives 11.3m ETH, which satisfies the commitment. Some blocks are mined a late, these blocks do not get added in the main blockchain but can be referred later that generates about 4.375 ETH. This reward is called uncle reward. A miner who refers to an uncle gets 0.15 ETH. These are called Uncle referencing reward.
+
+
+	How Ethereum is different from Bitcoin?
+	
+		--Ethereum generates blocks faster than bitcoin. In ethereum, every 14 seconds a block is generated whereas in bitcoin it takes 10 minutes to generate a block. So transactions done in ethereum are way faster than bitcoin. So blocks are added faster in the ethereum blockchain than in the bitcoin blockchain.
+		
+		--Block size in Ethereum is small, about 2KB whereas block size in bitcoin blockchain is about 1MB.
+		
+		--In Ethereum, smart contracts can be developed and executed by Ethereum Virtual Machine(EVM). Code in the smart contracts are more familiar to the developers.
+		
+		--Generation of tokens in ethereum is in constant number every year. In bitcoin, the token generation halves every 4 year.
+
+		--Mining rewards are different between Ethereum and Bitcoin. In Bitcoin, miner receive 12.5 new BTC and transaction fees. In Ethereum, miner receive 5 new ETH block rewards, a reward for referencing upto two recent uncles, gas from the contracts.  
+  
+	
+	
+	
+	
